@@ -1,0 +1,17 @@
+{
+  "name": "@ag-grid-community/angular",
+  "version": "31.3.4",
+  "license": "MIT",
+  "peerDependencies": {
+    "@ag-grid-community/core": "31.3.4",
+    "@angular/common": ">= 14.0.0",
+    "@angular/core": ">= 14.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ag-grid/ag-grid.git"
+  }
+}
